@@ -2,19 +2,17 @@
 
 ### Name
 
-_Write your name here_
-
+_Lexington Lehnert_
 ### Introspection
 
-_Describe the challenges you faced and what you learned_
+_Interpreting the code, I now better understand how imported files and modules work. I also better understand how models analyze datasets and how useful large amounts of data is_
 
 ### Dataset
 
-_Which dataset did you choose for the classification task?_
-
+_SMSSpamCollection_
 ### Resources
 
-_List the people and resources you used to complete the project_
+_Max, VJ, Vishnu_
 
 
 ### *DO NOT EDIT BELOW THIS LINE*
